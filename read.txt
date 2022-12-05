@@ -30,7 +30,26 @@ Video tags
 i-fram
 
 DAY 4
-INTRODUCTION TO CSS 
+INTRODUCTION TO CSS - Syntax -> selector {property : value}
 inline styling
 internal styling
 external styling
+
+we use the !important to overide styles. 
+the attribute will pick the color with the (!important) notation.
+
+TYPES OF CSS SELECTORS
+element
+id 
+class
+
+1 - SIZING (MEASUREMENT UNITS)
+    [pixels(px), percentages(%), rem, em, ViewPort height(vh), ViewPort Width(vw)]
+    16px => 100%
+    16px => 1em
+    16px => 1rem
+    
+2 - COLORS
+3 - ICONS
+4 - FONT STYLE 
+
