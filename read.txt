@@ -53,3 +53,13 @@ class
 3 - ICONS
 4 - FONT STYLE 
 
+FAVICONS - they are the icons at the top of our website 
+BOX MODEL - <div> 
+
+    1 pading - 30px, margin 25px, border 10px
+    2 15px, m5px, 15px
+    3 p0, m25px, b 30px
+
+PSUEDO PROPERTIES
+
+

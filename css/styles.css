@@ -1,3 +1,82 @@
-/* h1 {
+h1{
     color: blue;
-} */
+}
+#second{
+    color: red;
+}
+.third{
+    color: green;
+}
+p {
+    color: #FF731D;
+    font-size: 32px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+    font-weight: 400;
+    text-align: justify;
+    text-transform: capitalize;
+    line-height: 1.7;
+    text-indent: 80px;
+    letter-spacing: 0.5px;
+    word-spacing: 10px;
+    white-space: initial; 
+
+}
+
+.box1{
+    /* background-color: red; */
+    height: 500px;
+    width: 500px;
+    background-image: url('/images/orange.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* filter: invert(1); */
+    opacity: 20%;
+    
+}
+.box2{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    margin: 30px;
+    padding: 30px;
+
+    /* border: 5px;
+    border-color: red;
+    border-style: solid; */
+
+    border: 5px solid red;
+    /* border-top-left-radius: 30px; */
+    border-radius: 25px;
+
+}
+.box3{
+    height: 100px;
+    width: 100px;
+    background-color: #FF731D;
+}
+.b1, .b2, .b3{
+    height: 300px;
+    width: 300px;
+}
+.b1{
+    background-color: #FF731D;
+    padding: 30px;
+    margin: 25px 25px 0px 25px;
+    border: 10px solid brown;
+}
+.b2{
+    background-color: green;
+    padding: 15px;
+    margin: 0px 5px 0px 0px;
+    border: 15px solid blue;
+    margin-left: 403px;
+    
+}
+.b3{
+    background-color: darkorange;
+    padding: 0px;
+    margin: 0px 25px 25px 25px;
+    border: 3px solid red;
+    margin-left: 760px;
+}
